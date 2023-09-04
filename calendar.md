@@ -20,9 +20,8 @@
 ##### InClass
 * Max Intro
 
-###### Show & Tell 0: Lynn Hershman Leeson & Char Davies
-###### Show & Tell 1: Jeffery Shaw & Myron Kruger 
-
+###### Show & Tell 0: Lynn Hershman Leeson & Agnes Hegedüs 
+###### Show & Tell 1: Jeffery Shaw Compendium & Myron Krueger 
 ###### Show & Tell 2: David Rokeby & Toni Dove
 
 ##### Homework 
@@ -39,9 +38,9 @@
 * MSP intro
 * Challenge
 
-###### Show & Tell 3: MARKUS HECKMANN & Daniel Rozin
-###### Show & Tell 4: Adrien M & Claire B Company & Martin Messier
-###### Show & Tell 5: Universal Everything & Karolina Sobekecka
+###### Show & Tell 3: Schnelle Bunte Bilder & Daniel Rozin
+###### Show & Tell 4: Adrien M & Claire B Company (<-- one group/firm) & Martin Messier
+###### Show & Tell 5: Universal Everything & Cinimod
 
 ##### Homework 
 * Max Puzzle 2 & Finish in-class Challenge
@@ -66,7 +65,7 @@
 
 ###### Show & Tell 6: Sabrina Raaf & Jim Campbell
 ###### Show & Tell 7: Rafael Lozano-Hemmer & Nils Voelker
-###### Show & Tell 8: eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp) 
+###### Show & Tell 8: eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp), "The Work Comes First" Interactive Wall, Nuit Sonores / Installation by *is this good?* and LFA Architects
 
 
 ##### Homework
@@ -89,8 +88,8 @@
 * Max In-Class Challenge
 
 ###### Show & Tell: 13.	Camille Utterback & Tangible Interaction
-###### Show & Tell: 14.	Electroland & YesYesNo
-###### Show & Tell: 15.	Christa Sommerer & Laurent Migonneau & Ryan Habbyshaw 
+###### Show & Tell: 14.	Electroland & Team Lab 
+###### Show & Tell: 15.	Christa Sommerer & Laurent Migonneau (one group) & Yes Yes No 
 
 ##### Homework 
 * Work on Midterm
@@ -123,6 +122,11 @@
 
 
 ### Week 10 Nov 13th: openCV + Kinect
+
+###### Show & Tell: 16. Disney Research (including Aireal) & SoftLab NYC
+###### Show & Tell 17. Eunyoung Park & Chris Cairns
+###### Show & Tell 18. Rafael Lozano Hemmer x 2
+
 * Challenge	
 
 ##### Homework 

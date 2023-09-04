@@ -6,6 +6,10 @@
 
 - [Max API externals](https://github.com/tkzic/internet-sensors)
 
+- [Max online information from Cycling 74](https://cycling74.com/learn/documentation)
+
+- [Other courses, tutorials, Max books and more](https://cycling74.com/resources)
+
 
 ### General
 
@@ -30,6 +34,8 @@
 - [Hack A Day Blog](http://hackaday.com/)  - Great blog about working projects
 
 - [Hacking for Artists](http://hackingforartists.com/) - Awesome. Tons of info
+
+-[Creative Applications](https://www.creativeapplications.net/) - You need to know about this site
 
 ### Weekly Workshops or Class Material
 
