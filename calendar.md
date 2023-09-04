@@ -12,7 +12,7 @@
 * Read & Work through Max tutorials + Explore the associated patches (Max/Help/References/Click-on-the-house/Max/Tutorials: Hello - Keyboard & Mouse Input  (1-8))
 * Join our **[Slack](https://join.slack.com/t/slack-p0n5021/shared_invite/zt-22jzhbvxu-3U3qh1A6KZpogaChpjn7rQ)** workspace. 
 * Direct Message me your [Github Handle/Name](https://github.com/). If you do not have one, please setup a Github Account
-* Set up your [Process Site](Process_Site.md) ENTIRELY. Test your site url and every page created in a different browser
+* Set up your [Process Site](Process_Site.md) ENTIRELY. Test your site url in a different browser.
 * Post a link to your [Process Site](Process_Site.md) in our Slack Workspace under the Process-Site-URL Channel.
 * Prepare your Show + Tell Presentation
 
@@ -70,7 +70,7 @@
 
 
 ##### Homework
-* [Schedule your Maker Space Safety Orientation](https://wp.nyu.edu/makerspace/training-calendar/)
+* [Schedule your Maker Space Safety Orientation](https://makerspace.engineering.nyu.edu/training-and-reservations/)
 *  Jitter Tutorials: What is a Matrix, Attributes, 1 - 5
 * Max puzzle 4  
 
@@ -105,14 +105,13 @@
 * Reflect:
 * Bring a Kinect V1 1414 to week 10's class, along with it's power supply and an adaptor for your laptop. Don't forget! Do not leave this until the last minute.
 
-### Week 8 Oct 30th:
-##### Midterm Critique (in-class)
+### Week 8 Oct 30th: Midterm Critique (in-class)
 
 ##### Homework 
 * upload midterm documentation to your process site
 * [MidTerm Self-Assessment](Self-Assessment.md)
 * Prepare your [Roundtable Presentation](Roundtable.md) for your final project
-* Practice your presentation. Time yourself _actually practicing_ to ensure your presentation fits within 4 minutes (running all media necessary).
+* Practice your presentation. Time yourself _actually practicing_ to ensure your presentation fits within 4 minutes (this includes you speaking AND running all media necessary).
 
 
 ### Week 9 Nov 6th: Roundtable Presentations
