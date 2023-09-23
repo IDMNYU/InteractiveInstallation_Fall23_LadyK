@@ -1,6 +1,6 @@
 ### Show & Tell
 
-In the first week, you will either volunteer or be assigned to 2 people from the list below. On the assigned date, bring in 2-3 examples each person/group’s of their work. Each date has at least 2 people/groups. Be familiar with a brief bio and be prepared to critically discuss/analyze the assigned individual and their supporting work in a dynamic presentation in front of the class. Do not be lame. Be informed.
+In the first week, you will either volunteer or be assigned to 2 people from the list below. On the assigned date, bring in 2-3 examples each person/group’s of their work, focusing on interactive installations/environments/pieces. Each date has at least 2 people/groups. Be familiar with a brief bio and be prepared to critically discuss/analyze the assigned individual and their supporting work in a dynamic presentation in front of the class. Do not be lame. Be informed.
 
 In addition to Googling the people/projects, I encourage you to check out Eyeo’s website and Vimeo page, as well as Creative Applications site. 
 Create a visual presentation (keynote, powerpoint, google slides, browser tabs, etc). You must show us their work. Do not just tell us about it. Show it to us and give us a context. Was the work a collaboration? Who else was part of the project? Was it a comission or design project?

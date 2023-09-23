@@ -22,7 +22,7 @@
 
 ###### Show & Tell 0: Lynn Hershman Leeson & Agnes Hegedüs 
 ###### Show & Tell 1: Jeffery Shaw Compendium & Myron Krueger 
-###### Show & Tell 2: David Rokeby & Toni Dove
+###### Show & Tell 2: David Rokeby & Toni Dove - Lucia
 
 ##### Homework 
 * Review Max Tutorials + Explore the associated patches (Max/Help/References/Click-on-the-house/Max/Tutorials: Hello - Keyboard & Mouse Input  (1-8))
@@ -64,7 +64,7 @@
 
 
 ###### Show & Tell 6: Sabrina Raaf & Jim Campbell
-###### Show & Tell 7: Rafael Lozano-Hemmer & Nils Voelker
+###### Show & Tell 7: Rafael Lozano-Hemmer & Nils Voelker - Yilin
 ###### Show & Tell 8: eCloud (Hafermaas, Goods, Koblin), Bit.Fall (Popp), "The Work Comes First" Interactive Wall, Nuit Sonores / Installation by *is this good?* and LFA Architects
 
 
@@ -76,9 +76,9 @@
 
 ### Week 5: Tuesday Oct 10th: Maxin' more Jitter 
 
-###### Show & Tell 10: Design I/O & Golan Levin
-###### Show & Tell 11: Deep Local & Niklas Roy 
-###### Show & Tell 12: Daily tous les Jours (Mouna Andraos) & Random International 
+###### Show & Tell 10: Design I/O & Golan Levin - Kevin
+###### Show & Tell 11: Deep Local & Niklas Roy - Emily
+###### Show & Tell 12: Daily tous les Jours (Mouna Andraos) & Random International - Ri
 
 ##### Homework
 * Midterm
@@ -87,9 +87,9 @@
 * Jitter + openCV
 * Max In-Class Challenge
 
-###### Show & Tell: 13.	Camille Utterback & Tangible Interaction
-###### Show & Tell: 14.	Electroland & Team Lab 
-###### Show & Tell: 15.	Christa Sommerer & Laurent Migonneau (one group) & Yes Yes No 
+###### Show & Tell: 13.	Camille Utterback & Yes Yes No
+###### Show & Tell: 14.	Electroland & Team Lab - Fuguo
+###### Show & Tell: 15.	Christa Sommerer & Laurent Migonneau (one group) & Tangible Interaction  - Reshma
 
 ##### Homework 
 * Work on Midterm
@@ -123,9 +123,9 @@
 
 ### Week 10 Nov 13th: openCV + Kinect
 
-###### Show & Tell: 16. Disney Research (including Aireal) & SoftLab NYC
+###### Show & Tell: 16. Disney Research (including Aireal) & SoftLab NYC - Sauda
 ###### Show & Tell 17. Eunyoung Park & Chris Cairns
-###### Show & Tell 18. Rafael Lozano Hemmer x 2
+###### Show & Tell 18. Rafael Lozano Hemmer x 2 - Ziye
 
 * Challenge	
 
