@@ -48,7 +48,7 @@
 * Read Myron Kruger's "Responsive Environments" (found under Slack "resources")
 * Read the following tutorials: 
 * MSP  Basics tutorial: 1: Test Tone
-- MSP  Basics tutorial: 2: Ajustable Oscillator
+- MSP  Basics tutorial: 2: Adjustable Oscillator
 - MSP Sampling Tutorial 1: Recording and Playback
 - MSP Sampling tutorial 2: Play back from Multiple Sample Points
 - MSP Sampling tutorial 3: Playback with Loops
