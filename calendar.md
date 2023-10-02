@@ -70,8 +70,9 @@
 
 ##### Homework
 * [Schedule your Maker Space Safety Orientation](https://makerspace.engineering.nyu.edu/training-and-reservations/)
-*  Jitter Tutorials: What is a Matrix, Attributes, 1 - 5
-* Max puzzle 4  
+*  Jitter Tutorials: What is a Matrix?, Attributes: Editing Jitter parameters, 1 - 10 
+* Max puzzle 4   (see Slack #Resources)
+* Read Myron Kruger's "Responsive Environments" (found under Slack "resources")
 
 
 ### Week 5: Tuesday Oct 10th: Maxin' more Jitter 
