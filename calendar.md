@@ -82,7 +82,12 @@
 ###### Show & Tell 12: Daily tous les Jours (Mouna Andraos) & Random International - Ri
 
 ##### Homework
-* Midterm
+* Midterm - brainstorm concept 
+* Midterm - brainstorm system - inputs and outputs
+* Midterm - pseudo code it!
+* Midterm - read midterm readings (4 short ones in Slack Resources)
+* bring a usb camera to class if you have one
+* review Max patches and concepts
 
 ### Week 6: Oct 16th: openCV + tracking
 * Jitter + openCV
